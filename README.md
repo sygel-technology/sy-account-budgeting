@@ -17,7 +17,11 @@ Odoo Accounting Budgets Improvement
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[account_budget_propagate_date](account_budget_propagate_date/) | 15.0.1.0.0 |  | Apply the budget dates to lines.
 
 [//]: # (end addons)
 
